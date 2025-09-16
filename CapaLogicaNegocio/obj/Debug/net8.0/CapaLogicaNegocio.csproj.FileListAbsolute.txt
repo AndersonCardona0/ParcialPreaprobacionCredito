@@ -1,0 +1,15 @@
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.deps.json
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogi.BF2FE080.Up2Date
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\obj\Debug\net8.0\refint\CapaLogicaNegocio.dll
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaLogicaNegocio\obj\Debug\net8.0\ref\CapaLogicaNegocio.dll

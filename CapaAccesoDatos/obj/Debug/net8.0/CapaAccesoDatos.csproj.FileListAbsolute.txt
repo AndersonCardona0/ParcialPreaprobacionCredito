@@ -1,0 +1,12 @@
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\Ander\OneDrive\Documentos\Universidad\2025-2\Arquitetura de Software\ParcialPreaprobacionCredito\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll
